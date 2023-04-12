@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="complete_the_next_information">Rellena la siguiente informacion</string>
+    <string name="Name">Nombre</string>
+    <string name="email">Correo electronico</string>
+    <string name="phone_number">Número de Telefono</string>
+    <string name="save">Guardar</string>
+    <string name="Phone_Number">Numero Telefonico</string>
+    <string name="email_1">Correo electronico</string>
+    <string name="confirm_your_information">Confirma tu informacion</string>
+    <string name="text_view">TextView</string>
+    <string name="text_View">TextView</string>
+    <string name="text_view1">TextView</string>
+    <string name="share">Compartir</string>
+    <string name="name">Nombre:</string>
+</resources>

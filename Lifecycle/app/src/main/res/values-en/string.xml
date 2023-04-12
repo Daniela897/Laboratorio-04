@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="complete_the_next_information">Complete the next information</string>
+    <string name="Name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone</string>
+    <string name="save">Save</string>
+    <string name="Phone_Number">Phone</string>
+    <string name="email_1">Email</string>
+    <string name="confirm_your_information">Confirm your information</string>
+    <string name="text_view">TextView</string>
+    <string name="text_View">TextView</string>
+    <string name="text_view1">TextView</string>
+    <string name="share">Share</string>
+    <string name="name">Name:</string>
+</resources>
